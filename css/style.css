@@ -486,7 +486,7 @@ section {
     opacity: 0%;
     animation-name: fadeout;
     animation-duration: .5s;
-    z-index: -100;
+    z-index: -1;
 }
 
 .back-top.show {
