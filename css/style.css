@@ -293,7 +293,7 @@ body {
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
-    margin-bottom: 0rem;
+    margin-bottom: 0rem !important;
 }
 
 .profile-photo {
