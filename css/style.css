@@ -88,6 +88,7 @@ body {
 .btn {
     font-size: 1em;
     padding: .5em 2em;
+    margin: .5rem;
 }
 
 .btn.btn-primary {
